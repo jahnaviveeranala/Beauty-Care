@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+ position: relative;
+ background: transparent;
+ margin-top: 0px;
+}
+/* .navbar::before{
+ 
+  background-color:#908e99;
+  content: '';
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("..\\src\\assets\\heropic5.png");
+  background-repeat: no-repeat;
+  background-position:-130% right;
+background-size:cover;
+height: 120vh;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border-bottom-left-radius: 20px;
+ } */
+#navbarNav {
+  display: flex;
+  justify-content: space-between;
+  /* margin-left: 170px; */
+}
+
+/* #navbarSupportedContent {
+  margin-left: 420px;
+} */

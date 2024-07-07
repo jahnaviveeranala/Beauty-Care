@@ -1,0 +1,59 @@
+.container{
+    margin-top: 90px;
+    height: 90vh;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    overflow-x: hidden;
+}
+#beauty{
+    padding-right: 0px;
+}
+.collect{
+    height: 450px;
+    width: 360px;
+    /* margin-left: -20px; */
+}
+
+.crm{
+    width:230px ;
+height: 250px;
+border-radius: 10px;
+/* margin-left: 10px; */
+/* margin-left:10px; */
+}
+#inner-col{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.showbttl{
+    width:230px ;
+   height: 250px;
+   border-radius: 10px;
+   /* padding-left: 0px;
+   padding-right: 0px; */
+}
+.pwdbttl{
+    width: 170px;
+    height: 190px;
+    border-radius: 10px;
+    margin-top: 10px;
+    /* margin-right: 10px; */
+}
+.cutbttl{
+   width: 290px;
+   height: 190px;
+   border-radius: 10px;
+   margin-top: 10px;
+   margin-left: 20px;
+}
+.yellow{
+    height: 150px;
+    
+/* border-top-right-radius: 20px; */
+    margin-bottom: 10px;
+}
+
+.bttl{
+    height: 300px;
+    width: 275px;
+}

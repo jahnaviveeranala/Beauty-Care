@@ -1,0 +1,48 @@
+.container-fluid{
+   height: 120vh;
+    background-color: #d4d1e6;
+    padding: 20px;
+}
+.content-title{
+    font-size: 55px;
+    font-weight: 700px;
+    font-family: 'Playfair Display', serif;
+}
+.content-text{
+   /* background-color: bisque; */
+    /* width: 950px; */
+    font-size: 15px;
+    font-weight: 400px;
+    font-family: 'Playfair Display', serif;
+}
+.content-body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+#card-row{
+    padding: 30px;
+    justify-content: center;
+}
+.card-img-start {
+    width: 417px;
+    padding: 15px;
+    height: 400px;
+}
+.card-img-end {
+    width: 417px;
+    padding: 15px;
+    height: 400px;
+}
+.card-img-middle {
+    width: 417px;
+    padding: 15px;
+    height: 400px;
+}
+.card-body{
+    text-align: center;
+    padding-top: 0px;
+}
+/* .card{
+    height: 100px;
+} */
